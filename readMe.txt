@@ -1,1 +1,1 @@
-Bachelor project for SDU
+Bachelor project for SDU concerning topic detection.
